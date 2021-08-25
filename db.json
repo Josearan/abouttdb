@@ -1,11 +1,81 @@
 {
   "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" },
+    { "id": 4, "title": "Post 4" },
+    { "id": 5, "title": "Post 5" },
+    { "id": 6, "title": "Post 6" },
+    { "id": 7, "title": "Post 7" },
+    { "id": 8, "title": "Post 8" },
+    { "id": 9, "title": "Post 9" }
+  ],
+  "comments": [
+    {"id": 1,"body": "some comment", "postid": 1},
+    {"id": 2,"body": "some comment", "postid": 2},
+    {"id": 3,"body": "some comment", "postid": 3},
+    {"id": 4,"body": "some comment", "postid": 4},
+    {"id": 5,"body": "some comment", "postid": 5},
+    {"id": 6,"body": "some comment", "postid": 6},
+    {"id": 7,"body": "some comment", "postid": 7},
+    {"id": 8,"body": "some comment", "postid": 8},
+    {"id": 9,"body": "some comment", "postid": 9}    
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+"lista": {
+      "userId":1,
+      "id":1,
+      "title":" Misión ",
+      "body":" Lograr que todas las personas que pertenezcan a la acción comunal tengan sentido de pertenencia que trabajen por la comunidad, concientizar que el trabajo de la junta de acción comunal es un trabajo de equipo, comprometido, dinámico, participativo, solidario, creativo, optimista, con persistencia y con una calidad de vida digna para todos"
+   },
+   {
+      "userId":1,
+      "id":2,
+      "title":"Visión",
+      "body":" En el 2026 la junta de acción TDB (PABLO Vl) será una organización líder en impulsar proyectos comunitarios para disminuir la problemática de nuestra comunidad como son la convivencia, falta de capacitación, cultura comunal entre otros"
+   },
+   {
+      "userId":1,
+      "id":3,
+      "title":"Descripción",
+      "body":" Creación de una página web que permita la asignación de los espacios que cuenta la JAC y prestarlos para eventos de cualquier tipo y la publicación de noticias y/o anuncios publicitarios"
+   },
+   {       
+      "userId":1,
+      "id":4,
+      "title":"Problema o necesidad",
+      "body":" Necesidad de realizar una actividad o evento y no contar con el espacio suficiente"
+   },
+   {
+      "userId":1,
+      "id":5,
+      "title":"Solución proporcionada",
+      "body":" Prestar a cambio de una módica suma algunos de los espacios para aquellos que necesiten de ese espacio y si poseemos los implementos dárselos junto a el espacio dado para cualquier actividad"
+   },
+   {
+      "userId":1,
+      "id":6,
+      "title":" Propuesta de valor ",
+      "body":" El cliente recibe en el alquiler del espacio todos los implementos necesarios para llevar a cabo el evento o actividad y colaborarles y asesorarles para llevar de la mejor manera esa actividad"
+   },
+   {
+      "userId":1,
+      "id":7,
+      "title":"FAQ",
+      "body":"¿Cómo puedo programar un evento? R//= te pones al contacto al WhatsApp en la página web y este te dará un permiso y se le asignará una ficha en el calendario en dicha página de talento de barrio"
+   },
+   {
+      "userId":1,
+      "id":8,
+      "title":"FAQ",
+      "body":"¿Qué tipo de actividades realizan? R//= Se realizan una variedad de tipo de actividades o eventos debido a las fechas del país, tradiciones, proyectos deportivos y/o de cualquier tipo artes"
+   },
+   {
+      "userId":1,
+      "id":9,
+      "title":"FAQ",
+      "body":"¿Cómo puedo estar al corriente con estos eventos? R//= En la página de talento de barrio se encuentran sus redes sociales puedes ponerte al corriente viendo sus historias o revisando de vez en cuando el calendario de la página"
+   }
 }
