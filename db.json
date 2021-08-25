@@ -24,7 +24,7 @@
   "profile": {
     "name": "typicode"
   },
-"lista": {
+"lista": [
   {
       "userId":1,
       "id":1,
@@ -79,4 +79,4 @@
       "title":"FAQ",
       "body":"¿Cómo puedo estar al corriente con estos eventos? R//= En la página de talento de barrio se encuentran sus redes sociales puedes ponerte al corriente viendo sus historias o revisando de vez en cuando el calendario de la página"
    }
-}
+]
